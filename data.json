@@ -1,0 +1,126 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "A Portrait of the Void",
+      "pages": 340,
+      "price": 19.99,
+      "author": "James Joyce"
+    },
+    {
+      "id": "2",
+      "title": "The Starlit Abyss",
+      "pages": 420,
+      "price": 21.99,
+      "author": "Virginia Woolf"
+    },
+    {
+      "id": "3",
+      "title": "Whispers of Forgotten Dreams",
+      "pages": 300,
+      "price": 17.99,
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "id": "4",
+      "title": "Echoes of Silence",
+      "pages": 280,
+      "price": 14.99,
+      "author": "Ernest Hemingway"
+    },
+    {
+      "id": "5",
+      "title": "The Midnight Wanderer",
+      "pages": 360,
+      "price": 20.99,
+      "author": "George Orwell"
+    },
+    {
+      "id": "6",
+      "title": "Shadows of the Night",
+      "pages": 310,
+      "price": 18.99,
+      "author": "Aldous Huxley"
+    },
+    {
+      "id": "7",
+      "title": "Crimson Horizons",
+      "pages": 400,
+      "price": 22.99,
+      "author": "Leo Tolstoy"
+    },
+    {
+      "id": "8",
+      "title": "The Forgotten Light",
+      "pages": 390,
+      "price": 19.99,
+      "author": "Gabriel Garcia Marquez"
+    },
+    {
+      "id": "9",
+      "title": "Through the Twilight",
+      "pages": 350,
+      "price": 16.99,
+      "author": "Charlotte Bronte"
+    },
+    {
+      "id": 10,
+      "title": "The Eternal Flame",
+      "pages": 370,
+      "price": 21.99,
+      "author": "Herman Melville"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "James",
+      "surname": "Joyce"
+    },
+    {
+      "id": "2",
+      "name": "Virginia",
+      "surname": "Woolf"
+    },
+    {
+      "id": "3",
+      "name": "F. Scott",
+      "surname": "Fitzgerald"
+    },
+    {
+      "id": "4",
+      "name": "Ernest",
+      "surname": "Hemingway"
+    },
+    {
+      "id": "5",
+      "name": "George",
+      "surname": "Orwell"
+    },
+    {
+      "id": "6",
+      "name": "Aldous",
+      "surname": "Huxley"
+    },
+    {
+      "id": "7",
+      "name": "Leo",
+      "surname": "Tolstoy"
+    },
+    {
+      "id": "8",
+      "name": "Gabriel Garcia",
+      "surname": "Marquez"
+    },
+    {
+      "id": "9",
+      "name": "Charlotte",
+      "surname": "Bronte"
+    },
+    {
+      "id": "10",
+      "name": "Herman",
+      "surname": "Melville"
+    }
+  ]
+}
